@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   let delta = 0;
 
   if(wrapper.className.indexOf('skewed') != -1){
-    skew = 1000;
+    skew = 995;
   }
   
   wrapper.addEventListener('mousemove', function(e){
