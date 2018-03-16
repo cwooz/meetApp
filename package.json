@@ -1,0 +1,19 @@
+{
+  "name": "meetapp",
+  "version": "1.0.0",
+  "description": "Presentation App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwooz/meetApp.git"
+  },
+  "author": "cwooz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwooz/meetApp/issues"
+  },
+  "homepage": "https://github.com/cwooz/meetApp#readme"
+}
