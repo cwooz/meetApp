@@ -1,0 +1,25 @@
+{
+  "name": "meetApp",
+  "version": "1.6.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "description": "",
+  "authors": cwooz,
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cwooz/meetApp.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
