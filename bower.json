@@ -1,20 +1,22 @@
 {
-  "name": "meetApp",
-  "version": "1.6.0",
+  "name": "reveal.js",
+  "version": "3.6.0",
   "main": [
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "",
+  "homepage": "http://revealjs.com",
   "license": "MIT",
-  "description": "",
-  "authors": cwooz,
+  "description": "The HTML Presentation Framework",
+  "authors": [
+    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+  ],
   "dependencies": {
     "headjs": "~1.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cwooz/meetApp.git"
+    "url": "git://github.com/hakimel/reveal.js.git"
   },
   "ignore": [
     "**/.*",
